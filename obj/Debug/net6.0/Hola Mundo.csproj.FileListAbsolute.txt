@@ -1,0 +1,15 @@
+C:\C#\Hola Mundo\bin\Debug\net6.0\Hola Mundo.exe
+C:\C#\Hola Mundo\bin\Debug\net6.0\Hola Mundo.deps.json
+C:\C#\Hola Mundo\bin\Debug\net6.0\Hola Mundo.runtimeconfig.json
+C:\C#\Hola Mundo\bin\Debug\net6.0\Hola Mundo.dll
+C:\C#\Hola Mundo\bin\Debug\net6.0\Hola Mundo.pdb
+C:\C#\Hola Mundo\obj\Debug\net6.0\Hola Mundo.csproj.AssemblyReference.cache
+C:\C#\Hola Mundo\obj\Debug\net6.0\Hola Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Hola Mundo\obj\Debug\net6.0\Hola Mundo.AssemblyInfoInputs.cache
+C:\C#\Hola Mundo\obj\Debug\net6.0\Hola Mundo.AssemblyInfo.cs
+C:\C#\Hola Mundo\obj\Debug\net6.0\Hola Mundo.csproj.CoreCompileInputs.cache
+C:\C#\Hola Mundo\obj\Debug\net6.0\Hola Mundo.dll
+C:\C#\Hola Mundo\obj\Debug\net6.0\refint\Hola Mundo.dll
+C:\C#\Hola Mundo\obj\Debug\net6.0\Hola Mundo.pdb
+C:\C#\Hola Mundo\obj\Debug\net6.0\Hola Mundo.genruntimeconfig.cache
+C:\C#\Hola Mundo\obj\Debug\net6.0\ref\Hola Mundo.dll
